@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tibfab
 - 👀 I’m excited about ML and MLOps
-- 🌱 I’m currently learning probabilistic deep learning with Tensorflow
 - 📫 Reach me @ https://www.linkedin.com/in/fabiantibor/
 
 <!---
